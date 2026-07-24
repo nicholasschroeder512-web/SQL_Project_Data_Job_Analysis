@@ -1,0 +1,7 @@
+/.vscode
+/CREATE TABLE job_applied (.sql
+/DROP TABLE job_applied;.sql
+/UPDATE job_applied.sql
+/postgres.session.sql
+/sql_course.session.sql
+/test.sql
